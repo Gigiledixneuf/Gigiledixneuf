@@ -7,7 +7,6 @@
 - 📂 Familiar with **Git**, **GitHub**, **VS Code**, **Sublime Text**, and database management systems like **MySQL** and **SQLite**.
 - ✉️ Reach me at: **guerchomkubaluka@gmail.com**.
   
-🔗 LinkedIn: **Guerchom Kubaluka**.
 ---
 
 🧠 Tech Stack
