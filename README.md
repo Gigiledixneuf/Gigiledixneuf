@@ -6,6 +6,7 @@
 - 🎨 Experienced in design tools like **Figma** and **Canva** for creating captivating UI/UX designs.
 - 📂 Familiar with **Git**, **GitHub**, **VS Code**, **Sublime Text**, and database management systems like **MySQL** and **SQLite**.
 - ✉️ Reach me at: **guerchomkubaluka@gmail.com**.
+- 
 🔗 LinkedIn: Guerchom Kubaluka
 ---
 
@@ -14,19 +15,25 @@
 Html | Css | PHP
 
 👨‍💻 Backend
+
 PHP | Laravel
 
 🌐 Frontend
+
 HTML5 | CSS3 | TailwindCSS | Bootstrap | Material UI
 
 🛢 Databases
+
 MySQL | Sqlite
 
 🔧 Tools & Platforms
+
 Git | GitHub| Windows | Vscode
 
 🎨 Design & Editing
+
 Figma | Canva 
+
 
 ---
 
