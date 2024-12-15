@@ -37,16 +37,16 @@
 
 ### 📊 GitHub Stats:
 #### General Stats:
-![Guerchom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guerchom&show_icons=true&hide=issues&bg_color=0d1117&text_color=ffffff&title_color=7f5af0&icon_color=7f5af0)
+![Guerchom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gigiledixneuf&show_icons=true&hide=issues&bg_color=0d1117&text_color=ffffff&title_color=7f5af0&icon_color=7f5af0)
 
 #### Most Used Languages:
-![Guerchom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guerchom&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=7f5af0)
+![Guerchom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gigiledixneuf&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=7f5af0)
 
 ---
 
 ### 🤝 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/gigi-kubaluka)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/guerchom)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/Gigiledixneuf)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/le_gigiiibabyyy/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:guerchomkubaluka@gmail.com)
 
