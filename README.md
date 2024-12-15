@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Guerchom Kubaluka!
+# 👋 Hi, I'm Guerchom "Gigi" Kubaluka!
 
 ### 👨‍💻 About Me:
 - 💻 I’m a **Web Developer** passionate about crafting intuitive and dynamic web experiences.
